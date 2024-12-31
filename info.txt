@@ -1,0 +1,10 @@
+D:\image_processing_project\data\natural_images\person\output_sequential
+D:\image_processing_project\data\natural_images\person\output_parallel
+
+These are the folders where the output will be displayed
+
+It will vary for different users
+
+IMAGE_PATH = r"D:\image_processing_project\data\natural_images\person"
+
+This is the image path. Change accordingly.
